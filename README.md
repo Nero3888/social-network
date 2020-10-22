@@ -1,1 +1,1 @@
-# social-network react
+Социальная сеть по курсу на YouTube React JS путь самурая. (в процессе)
